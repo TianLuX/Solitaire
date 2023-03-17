@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ce98123-76d4-4243-b457-3dcb3099f82f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2804lFQp40cBm4Kcyr0hRZE5G8C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Huawei\IdeaProjects\Solitaire\src\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartGame" />
+      <module name="Solitaire" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ce98123-76d4-4243-b457-3dcb3099f82f" name="Default Changelist" comment="" />
+      <created>1650340317732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650340317732</updated>
+      <workItem from="1650340321850" duration="526000" />
+      <workItem from="1650351293627" duration="4718000" />
+      <workItem from="1650356158571" duration="123000" />
+      <workItem from="1650358945915" duration="71000" />
+      <workItem from="1650451842006" duration="11096000" />
+      <workItem from="1650463483232" duration="324000" />
+      <workItem from="1650516101624" duration="4000" />
+      <workItem from="1650526735138" duration="7920000" />
+      <workItem from="1650590785321" duration="2242000" />
+      <workItem from="1650608283096" duration="20000" />
+      <workItem from="1650624614230" duration="6719000" />
+      <workItem from="1650631363094" duration="1511000" />
+      <workItem from="1650633778660" duration="362000" />
+      <workItem from="1650634162740" duration="1139000" />
+      <workItem from="1650635648468" duration="212000" />
+      <workItem from="1650698909452" duration="4619000" />
+      <workItem from="1650710684388" duration="5865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650353620115">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="176" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1650353620115" />
+    <state x="526" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1650592197741">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1650592197741" />
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1650528575808">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.920@0.0.1440.920" timestamp="1650528575808" />
+    <state x="451" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650528741053">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1650528741053" />
+    <state width="1397" height="159" key="GridCell.Tab.0.bottom" timestamp="1650703532893">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="159" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1650703532893" />
+    <state width="1397" height="159" key="GridCell.Tab.0.center" timestamp="1650703532893">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="159" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1650703532893" />
+    <state width="1397" height="159" key="GridCell.Tab.0.left" timestamp="1650703532893">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="159" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1650703532893" />
+    <state width="1397" height="159" key="GridCell.Tab.0.right" timestamp="1650703532893">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="159" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1650703532893" />
+    <state x="442" y="202" width="540" height="524" key="StructurePopup" timestamp="1650592435960">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="442" y="202" width="540" height="524" key="StructurePopup/0.0.1440.920@0.0.1440.920" timestamp="1650592435960" />
+    <state x="521" y="152" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1650591092410">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="521" y="152" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.920@0.0.1440.920" timestamp="1650591092410" />
+    <state x="425" y="93" key="refactoring.ChangeSignatureDialog" timestamp="1650634709063">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="425" y="93" key="refactoring.ChangeSignatureDialog/0.0.1440.920@0.0.1440.920" timestamp="1650634709063" />
+    <state x="377" y="211" key="run.anything.popup" timestamp="1650592362974">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1650592362974" />
+    <state x="383" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1650627980616">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1650627980616" />
+  </component>
+</project>
